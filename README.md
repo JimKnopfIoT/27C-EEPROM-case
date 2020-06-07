@@ -1,5 +1,5 @@
 # 27C EEPROM case
-3D printable case for 27C EEPROM Chips, created with Rhino 6.
+3D printable enclosure for 27C EEPROM Chips, created with Rhino 6.
 
 #### 3D Case
 The enclosure consists of 2 parts which are clamped together (no screws). There are cases for up to 5 Chips.
